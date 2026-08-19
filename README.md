@@ -19,7 +19,7 @@ Race number is used to maintain chronological order, with track names displayed 
 - Plotly
 
 ## Files
-- `jgr_2026_data_visualization.ipynb` — Data preparation and visualization
+- `jgr_visual_linegraph.ipynb` — Data preparation and visualization
 - `jgr_drivers_2026_stats.csv` — JGR race-level data
 
 ## Status
